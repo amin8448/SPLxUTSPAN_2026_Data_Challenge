@@ -491,7 +491,10 @@ These align with basketball coaching principles: angle is about arm mechanics, d
 ## Repository Structure
 
 ```
-├── README.md              # This document
+├── README.md              # Project overview
+├── FULL_REPORT.md         # Complete methodology (this document)
+├── methodology.md         # Brief methodology for Kaggle
+├── LICENSE                # MIT License
 ├── requirements.txt       # Dependencies
 ├── preprocessing.py       # Data loading and normalization
 ├── features.py            # Feature extraction
@@ -499,8 +502,7 @@ These align with basketball coaching principles: angle is about arm mechanics, d
 ├── tree_model.py          # XGBoost/LightGBM
 ├── dilated_cnn.py         # Dilated CNN
 ├── bias_amplification.py  # Per-participant calibration
-├── train.py               # Main training script
-└── submissions/           # Competition submissions
+└── train.py               # Main training script
 ```
 
 ---
