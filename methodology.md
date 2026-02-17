@@ -1,6 +1,6 @@
 # Multi-Modal Learning for Basketball Free Throw Prediction: Biomechanical Feature Engineering and Target-Specific Modeling
 
-**GitHub Repository:** [Insert Link]
+**GitHub Repository:** https://github.com/amin8448/SPLxUTSPAN_2026_Data_Challenge
 
 ---
 
